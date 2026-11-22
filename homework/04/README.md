@@ -6,7 +6,7 @@ project: Rulebook — board-game rules companion with source references
 
 # Week 4 — Problem definition and opportunity search
 
-**Project FigJam board (existing, shareable):** https://www.figma.com/board/8CpfdHJFAHqpO9RcMVzzMj
+**Project FigJam board (existing, shareable):** [https://www.figma.com/board/8CpfdHJFAHqpO9RcMVzzMj](https://www.figma.com/board/qM115e40DgRrVNNfGI1Eu8/Rulebook-%E2%80%94-UX-UI-Homework-04%E2%80%9305-%E2%80%94-Research-to-Information-Architecture?node-id=0-1&t=lieJ4wGScgGmJqvY-1)
 **Important delivery status:** Figma's Starter plan tool-call limit prevented adding the new Week 4 content directly to this board. The Week 4 work is included as a designed, **FigJam-import-ready SVG** in `week4-opportunity-board.svg`, with a PNG preview. Import the SVG onto the existing board and confirm its sharing settings before submission. The existing link alone does not yet display the Week 4 sections.
 
 ## Deliverables
