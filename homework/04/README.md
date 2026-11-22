@@ -7,7 +7,6 @@ project: Rulebook — board-game rules companion with source references
 # Week 4 — Problem definition and opportunity search
 
 **Project FigJam board (existing, shareable):** https://www.figma.com/board/8CpfdHJFAHqpO9RcMVzzMj
-
 **Important delivery status:** Figma's Starter plan tool-call limit prevented adding the new Week 4 content directly to this board. The Week 4 work is included as a designed, **FigJam-import-ready SVG** in `week4-opportunity-board.svg`, with a PNG preview. Import the SVG onto the existing board and confirm its sharing settings before submission. The existing link alone does not yet display the Week 4 sections.
 
 ## Deliverables
