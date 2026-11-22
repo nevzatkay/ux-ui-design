@@ -1,0 +1,22 @@
+flowchart TD
+  G[GOAL: Decide whether UNO +4 can follow +2] --> A[Choose game, edition, expansions]
+  A --> B{Supported ruleset?}
+  B -- No --> U[EXCEPTION E1: Unsupported edition; change selection]
+  U --> A
+  B -- Yes --> C[Ask specific card question]
+  C --> D{Enough details?}
+  D -- No --> M[EXCEPTION E2: Ask missing detail; preserve text]
+  M --> C
+  D -- Yes --> E[Search selected rules]
+  E --> F{Retrieval worked?}
+  F -- No --> N[EXCEPTION E5: Network error; retry]
+  N --> E
+  F -- Yes --> H{Supporting evidence?}
+  H -- No --> I[EXCEPTION E3: Cannot verify]
+  H -- Yes --> J{Evidence conflicts?}
+  J -- Yes --> K[EXCEPTION E4: Show conflict, unresolved]
+  J -- No --> L[Short ruling + citation]
+  L --> O[Open original rule passage]
+  O --> P[OUTCOME: Group decides using evidence]
+  classDef exception fill:#fff0d5,stroke:#bd8730,color:#233342
+  class U,M,N,I,K exception

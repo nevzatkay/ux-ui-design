@@ -1,0 +1,13 @@
+flowchart TD
+  A[Goal: settle a disputed UNO move] --> B[Choose game & rules]
+  B --> C{Ruleset available?}
+  C -- No --> X[Unsupported ruleset notice]
+  X --> B
+  C -- Yes --> D[Ask a rule]
+  D --> E[Answer & source]
+  E --> F[Read source passage]
+  F --> E
+  E --> D
+  E --> B
+  classDef state fill:#fff0d5,stroke:#ab7d2c,color:#233342
+  class X state

@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4200 6760" width="4200" height="6760">
+  <defs>
+    <marker id="arrow" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="10" refY="5">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#087a77"/>
+    </marker>
+  </defs>
+  <defs/>
+  <rect x="0" y="0" width="4200" height="6760" fill="#f2f6f9"/>
+  <g transform="translate(80,70) scale(1.12)">
+    <rect fill="#F4F7FA" height="2550" width="3600" x="0" y="0"/>
+    <rect fill="#183447" height="158" rx="0" ry="0" stroke="none" stroke-width="1" width="3600" x="0" y="0"/>
+    <text fill="#FFFFFF" font-family="DejaVu Sans, sans-serif" font-size="42" font-weight="bold" x="68" y="59.0">WEEK 04   /   RULEBOOK</text>
+    <text fill="#BDD8E0" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="normal" x="69" y="111.0">Problem definition &amp; opportunity search   •   Nevzat Kayıkçı   •   JWM27Z</text>
+    <rect fill="#087D7B" height="66" rx="20" ry="20" stroke="none" stroke-width="1" width="245" x="3280" y="40"/>
+    <text fill="#FFFFFF" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="3310" y="82.0">UX/UI DESIGN</text>
+    <rect fill="#FFFFFF" height="650" rx="20" ry="20" stroke="none" stroke-width="1" width="1150" x="68" y="195"/>
+    <rect fill="#087D7B" height="650" rx="5" ry="5" stroke="none" stroke-width="1" width="10" x="68" y="195"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="bold" x="103" y="242.0">01   Project brief</text>
+    <rect fill="#D7E2E7" height="2" rx="1" ry="1" stroke="none" stroke-width="1" width="1080" x="103" y="268"/>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="103" y="296.0">ONE TASK</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="103" y="328.0">Resolve whether UNO +4 can follow +2</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="103" y="365.0">using the selected rule edition and a cited passage.</text>
+    <rect fill="#E5F2FE" height="175" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="103" y="395"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="123" y="429.0">Target and goal</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="123" y="462.0">Group player needing a traceable ruling during play. Make decisions based on</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="123" y="493.9">verifiable source text.</text>
+    <rect fill="#E9EEF2" height="210" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="103" y="585"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="123" y="619.0">Constraints, success and exclusions</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="123" y="652.0">MVP: few permitted text rulebooks, mobile-friendly, edition scope. Proposed test:</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="123" y="682.45">≥16/20 correct+cited in ≤90s; ≥4/5 unknowns flagged. No game engine, opponent or</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="123" y="712.9">house-rule arbitration.</text>
+    <rect fill="#FFFFFF" height="650" rx="20" ry="20" stroke="none" stroke-width="1" width="1150" x="1225" y="195"/>
+    <rect fill="#087D7B" height="650" rx="5" ry="5" stroke="none" stroke-width="1" width="10" x="1225" y="195"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="bold" x="1260" y="242.0">02   Research vs assumptions</text>
+    <rect fill="#D7E2E7" height="2" rx="1" ry="1" stroke="none" stroke-width="1" width="1080" x="1260" y="268"/>
+    <rect fill="#E0F6E8" height="205" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="1260" y="290"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="1280" y="324.0">EVIDENCE  •  P01 participant account</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="1280" y="357.0">Group disputed a +2 → +4 UNO move. They searched online, read rules and made a</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="1280" y="388.9">decision. One retrospective written response.</text>
+    <rect fill="#FFF0D5" height="290" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="1260" y="510"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="1280" y="544.0">ASSUMPTIONS  •  NOT USER FINDINGS</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="1280" y="577.0">Players benefit from fast cited answers; an edition selector prevents errors;</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="1280" y="608.9">clarifying questions are acceptable; the MVP is feasible. Search time, feelings,</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="1280" y="640.8">device and edition were NOT reported.</text>
+    <rect fill="#FFFFFF" height="650" rx="20" ry="20" stroke="none" stroke-width="1" width="1150" x="2382" y="195"/>
+    <rect fill="#087D7B" height="650" rx="5" ry="5" stroke="none" stroke-width="1" width="10" x="2382" y="195"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="bold" x="2417" y="242.0">03   Problem &amp; opportunities</text>
+    <rect fill="#D7E2E7" height="2" rx="1" ry="1" stroke="none" stroke-width="1" width="1080" x="2417" y="268"/>
+    <rect fill="#E5F2FE" height="196" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="2417" y="290"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="2437" y="324.0">PROBLEM STATEMENT</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2437" y="357.0">The problem of the player in a group card game is that a disputed card combination is</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2437" y="387.45">not clearly resolved at the table, because of which the group interrupts play to</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2437" y="417.9">search for and interpret rules.</text>
+    <rect fill="#F1EAFB" height="300" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="2417" y="500"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="2437" y="534.0">HMW  •  OPEN QUESTIONS</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2437" y="567.0">HMW1  How might we clarify which rule applies to a specific move?</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2437" y="597.45">HMW2  How might a group judge a ruling’s support?</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2437" y="627.9">HMW3  How might players handle missing or conflicting context without guessing?</text>
+    <rect fill="#FFFFFF" height="800" rx="20" ry="20" stroke="none" stroke-width="1" width="3464" x="68" y="880"/>
+    <rect fill="#087D7B" height="800" rx="5" ry="5" stroke="none" stroke-width="1" width="10" x="68" y="880"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="bold" x="103" y="927.0">04   Ten possible solutions  •  Diverge before deciding</text>
+    <rect fill="#D7E2E7" height="2" rx="1" ry="1" stroke="none" stroke-width="1" width="3394" x="103" y="953"/>
+    <rect fill="#E5F2FE" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="104" y="1000"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="124" y="1046.0">S1  Situation question</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="124" y="1094">Ask about the exact card sequence in</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="124" y="1126">everyday language.</text>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="124" y="1243.0">HMW1  •  MVP candidate</text>
+    <rect fill="#E5F2FE" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="786" y="1000"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="806" y="1046.0">S2  Cited ruling</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="806" y="1094">Short answer plus a directly inspectable</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="806" y="1126">rule passage.</text>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="806" y="1243.0">HMW2  •  MVP candidate</text>
+    <rect fill="#E5F2FE" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="1468" y="1000"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="1488" y="1046.0">S3  Edition scope</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="1488" y="1094">Select the game, rules edition and active</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="1488" y="1126">expansions.</text>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="1488" y="1243.0">HMW2  •  MVP candidate</text>
+    <rect fill="#E5F2FE" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="2150" y="1000"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="2170" y="1046.0">S4  Focused follow-up</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2170" y="1094">Ask for one critical missing detail instead</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2170" y="1126">of guessing.</text>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="2170" y="1243.0">HMW3  •  MVP candidate</text>
+    <rect fill="#FFF0D5" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="2832" y="1000"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="2852" y="1046.0">S5  Cross-reference</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2852" y="1094">Combine exceptions spread across related</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2852" y="1126">rulebook sections.</text>
+    <text fill="#5B6F7E" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="2852" y="1243.0">HMW2  •  alternative</text>
+    <rect fill="#FFF0D5" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="104" y="1311"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="124" y="1357.0">S6  House-rule flag</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="124" y="1405">Distinguish a local variation from supported</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="124" y="1437">official rules.</text>
+    <text fill="#5B6F7E" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="124" y="1554.0">HMW3  •  alternative</text>
+    <rect fill="#E9EEF2" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="786" y="1311"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="806" y="1357.0">S7  Saved rulings</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="806" y="1405">Bookmark checked rulings with their source</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="806" y="1437">version.</text>
+    <text fill="#5B6F7E" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="806" y="1554.0">HMW1  •  alternative</text>
+    <rect fill="#E9EEF2" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="1468" y="1311"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="1488" y="1357.0">S8  Shareable ruling</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="1488" y="1405">Copy or show the evidence-backed result to</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="1488" y="1437">the table.</text>
+    <text fill="#5B6F7E" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="1488" y="1554.0">HMW2  •  alternative</text>
+    <rect fill="#E9EEF2" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="2150" y="1311"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="2170" y="1357.0">S9  Card photo lookup</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2170" y="1405">Photograph cards to help formulate a</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2170" y="1437">question.</text>
+    <text fill="#5B6F7E" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="2170" y="1554.0">HMW1  •  alternative</text>
+    <rect fill="#E9EEF2" height="285" rx="16" ry="16" stroke="none" stroke-width="1" width="651" x="2832" y="1311"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="2852" y="1357.0">S10  Voice question</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2852" y="1405">Ask hands-free; confirm recognized words in</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2852" y="1437">text.</text>
+    <text fill="#5B6F7E" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="2852" y="1554.0">HMW1  •  alternative</text>
+    <rect fill="#FFFFFF" height="770" rx="20" ry="20" stroke="none" stroke-width="1" width="2265" x="68" y="1720"/>
+    <rect fill="#087D7B" height="770" rx="5" ry="5" stroke="none" stroke-width="1" width="10" x="68" y="1720"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="bold" x="103" y="1767.0">05   Prioritization  •  Impact × Feasibility</text>
+    <rect fill="#D7E2E7" height="2" rx="1" ry="1" stroke="none" stroke-width="1" width="2195" x="103" y="1793"/>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="112" y="1818.0">HIGH IMPACT</text>
+    <text fill="#5B6F7E" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="bold" x="1790" y="1818.0">FEASIBILITY →</text>
+    <rect fill="#FFF0D5" height="290" rx="12" ry="12" stroke="none" stroke-width="1" width="1060" x="102" y="1840"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="124" y="1879.0">HIGH impact / LOW feasibility</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="124" y="1924">S5  Cross-reference  (5,2)</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="124" y="1966">S6  House-rule flag  (4,2)</text>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" x="124" y="2092.0">Later research</text>
+    <rect fill="#E0F6E8" height="290" rx="12" ry="12" stroke="none" stroke-width="1" width="1060" x="1199" y="1840"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="1221" y="1879.0">HIGH impact / HIGH feasibility</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="1221" y="1924">S1  Situation question  (5,5)</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="1221" y="1966">S2  Cited ruling  (5,4)</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="1221" y="2008">S3  Edition scope  (5,4)</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="1221" y="2050">S4  Clarification  (4,4)</text>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" x="1221" y="2092.0">MVP FOCUS</text>
+    <rect fill="#E9EEF2" height="290" rx="12" ry="12" stroke="none" stroke-width="1" width="1060" x="102" y="2148"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="124" y="2187.0">LOW impact / LOW feasibility</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="124" y="2232">S9  Card photo  (3,2)</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="124" y="2274">S10  Voice question  (2,2)</text>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" x="124" y="2400.0">Defer</text>
+    <rect fill="#E5F2FE" height="290" rx="12" ry="12" stroke="none" stroke-width="1" width="1060" x="1199" y="2148"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="1221" y="2187.0">LOW impact / HIGH feasibility</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="1221" y="2232">S7  Saved rulings  (2,5)</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="1221" y="2274">S8  Shareable ruling  (3,5)</text>
+    <text fill="#087D7B" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" x="1221" y="2400.0">Optional enhancement</text>
+    <text fill="#5B6F7E" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" x="113" y="2452.0">Estimated scores: Impact 1–5, Feasibility 1–5  •  High = 4–5  •  All scores are assumptions, not measurements.</text>
+    <rect fill="#FFFFFF" height="770" rx="20" ry="20" stroke="none" stroke-width="1" width="1150" x="2382" y="1720"/>
+    <rect fill="#087D7B" height="770" rx="5" ry="5" stroke="none" stroke-width="1" width="10" x="2382" y="1720"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="bold" x="2417" y="1767.0">06   Focus &amp; why</text>
+    <rect fill="#D7E2E7" height="2" rx="1" ry="1" stroke="none" stroke-width="1" width="1080" x="2417" y="1793"/>
+    <rect fill="#E0F6E8" height="220" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="2417" y="1820"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="2437" y="1854.0">TAKE FORWARD  •  S1 + S2 + S3 + S4</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="2437" y="1887.0">Simple situational input → edition-scoped lookup → concise ruling with an</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" x="2437" y="1920.35">inspectable passage → clarification or explicit uncertainty.</text>
+    <rect fill="#E5F2FE" height="208" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="2417" y="2057"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="2437" y="2091.0">JUSTIFICATION</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="2437" y="2124.0">P01 asked about a precise card pair and consulted written rules. The other</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="2437" y="2155.9">protections are design hypotheses, not interview findings.</text>
+    <rect fill="#FFF0D5" height="172" rx="16" ry="16" stroke="none" stroke-width="1" width="1080" x="2417" y="2280"/>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="2437" y="2314.0">NEXT VALIDATION</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2437" y="2347.0">Test 4 supported cases + 1 unresolved case with each of 5 participants. Track</text>
+    <text fill="#183447" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2437" y="2377.45">accuracy, source citation, time and gap recognition.</text>
+  </g>
+  <g transform="translate(0,3040)">
+    <rect fill="#f2f6f9" height="2750" width="4200" x="0" y="0"/>
+    <rect fill="#173749" height="172" rx="0" ry="0" stroke="none" stroke-width="2" width="4200" x="0" y="0"/>
+    <text fill="#ffffff" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="bold" x="66" y="66.0">WEEK 05   /   RULEBOOK</text>
+    <text fill="#d5e7ee" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="normal" x="66" y="121.0">Information architecture &amp; user flow   •   Homework 05   •   Nevzat Kayıkçı / JWM27Z</text>
+    <rect fill="#087a77" height="65" rx="21" ry="21" stroke="none" stroke-width="2" width="510" x="3620" y="47"/>
+    <text fill="#ffffff" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" x="3651" y="92.0">4 SCREENS  ·  1 TASK</text>
+    <rect fill="#ffffff" height="668" rx="22" ry="22" stroke="none" stroke-width="2" width="1330" x="60" y="203"/>
+    <rect fill="#087a77" height="668" rx="5" ry="5" stroke="none" stroke-width="2" width="11" x="60" y="203"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" x="95" y="252.0">01   Content inventory</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="95" y="294.0">Ordered by relevance to the one ruling task</text>
+    <rect fill="#d3dfe5" height="2" rx="1" ry="1" stroke="none" stroke-width="2" width="1260" x="95" y="321"/>
+    <rect fill="#e8f3ff" height="51" rx="9" ry="9" stroke="none" stroke-width="2" width="1222" x="92" y="322"/>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="105" y="355.0">P0  1</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="290" y="355.0">Game, edition, expansions</text>
+    <rect fill="#e8f3ff" height="51" rx="9" ry="9" stroke="none" stroke-width="2" width="1222" x="92" y="380"/>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="105" y="413.0">P0  2</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="290" y="413.0">Situational question field</text>
+    <rect fill="#e8f3ff" height="51" rx="9" ry="9" stroke="none" stroke-width="2" width="1222" x="92" y="438"/>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="105" y="471.0">P0  3</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="290" y="471.0">Ruling or explicit uncertainty</text>
+    <rect fill="#e8f3ff" height="51" rx="9" ry="9" stroke="none" stroke-width="2" width="1222" x="92" y="496"/>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="105" y="529.0">P0  4</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="290" y="529.0">Inspectable rule passage</text>
+    <rect fill="#e8f3ff" height="51" rx="9" ry="9" stroke="none" stroke-width="2" width="1222" x="92" y="554"/>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="105" y="587.0">P0  5</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="290" y="587.0">Document title, edition, location</text>
+    <rect fill="#e8f3ff" height="51" rx="9" ry="9" stroke="none" stroke-width="2" width="1222" x="92" y="612"/>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="105" y="645.0">P0  6</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="290" y="645.0">Missing-detail clarification</text>
+    <rect fill="#e4f7e8" height="51" rx="9" ry="9" stroke="none" stroke-width="2" width="1222" x="92" y="670"/>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="105" y="703.0">P1  7</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="290" y="703.0">Loading / error recovery</text>
+    <rect fill="#e4f7e8" height="51" rx="9" ry="9" stroke="none" stroke-width="2" width="1222" x="92" y="728"/>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="105" y="761.0">P1  8</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="290" y="761.0">Keyboard + accessible labels</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" x="95" y="832.0">Excluded: account, saved archive, voice, photo, scores, opponent.</text>
+    <rect fill="#ffffff" height="668" rx="22" ry="22" stroke="none" stroke-width="2" width="1329" x="1436" y="203"/>
+    <rect fill="#087a77" height="668" rx="5" ry="5" stroke="none" stroke-width="2" width="11" x="1436" y="203"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" x="1471" y="252.0">02   Label comprehension check</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="1471" y="294.0">Honest status: THREE real testers still required</text>
+    <rect fill="#d3dfe5" height="2" rx="1" ry="1" stroke="none" stroke-width="2" width="1259" x="1471" y="321"/>
+    <rect fill="#fff0d7" height="97" rx="12" ry="12" stroke="none" stroke-width="2" width="1255" x="1469" y="340"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="bold" x="1493" y="378.0">NOT TESTED  ·  0/3 participants</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="1493" y="411.0">Do not present the labels as validated.</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="1475" y="493.0">Provisional labels to test:</text>
+    <rect fill="#e8f3ff" height="55" rx="12" ry="12" stroke="#d3dfe5" stroke-width="1" width="587" x="1483" y="521"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="1500" y="560.0">Choose game</text>
+    <rect fill="#e8f3ff" height="55" rx="12" ry="12" stroke="#d3dfe5" stroke-width="1" width="587" x="2090" y="521"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="2107" y="560.0">Edition &amp; expansions</text>
+    <rect fill="#e8f3ff" height="55" rx="12" ry="12" stroke="#d3dfe5" stroke-width="1" width="587" x="1483" y="587"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="1500" y="626.0">Ask a rule</text>
+    <rect fill="#e8f3ff" height="55" rx="12" ry="12" stroke="#d3dfe5" stroke-width="1" width="587" x="2090" y="587"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="2107" y="626.0">Answer &amp; source</text>
+    <rect fill="#e8f3ff" height="55" rx="12" ry="12" stroke="#d3dfe5" stroke-width="1" width="587" x="1483" y="653"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="1500" y="692.0">Read source</text>
+    <rect fill="#e8f3ff" height="55" rx="12" ry="12" stroke="#d3dfe5" stroke-width="1" width="587" x="2090" y="653"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="2107" y="692.0">Cannot verify</text>
+    <rect fill="#e8f3ff" height="55" rx="12" ry="12" stroke="#d3dfe5" stroke-width="1" width="587" x="1483" y="719"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="1500" y="758.0">Add missing detail</text>
+    <rect fill="#e8f3ff" height="55" rx="12" ry="12" stroke="#d3dfe5" stroke-width="1" width="587" x="2090" y="719"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="2107" y="758.0">Try again</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" x="1476" y="835.0">Ask 3 players what they would click for 5 concrete tasks.</text>
+    <rect fill="#ffffff" height="668" rx="22" ry="22" stroke="none" stroke-width="2" width="1330" x="2811" y="203"/>
+    <rect fill="#087a77" height="668" rx="5" ry="5" stroke="none" stroke-width="2" width="11" x="2811" y="203"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" x="2846" y="252.0">03   Main screens &amp; functions</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="2846" y="294.0">Screen structure supports the player’s specific goal</text>
+    <rect fill="#d3dfe5" height="2" rx="1" ry="1" stroke="none" stroke-width="2" width="1260" x="2846" y="321"/>
+    <rect fill="#e8f3ff" height="94" rx="13" ry="13" stroke="none" stroke-width="2" width="1248" x="2844" y="321"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="2865" y="353.0">01  Choose game &amp; rules</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" x="2865" y="388.0">Game, edition, active expansions</text>
+    <rect fill="#e8f3ff" height="94" rx="13" ry="13" stroke="none" stroke-width="2" width="1248" x="2844" y="432"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="2865" y="464.0">02  Ask a rule</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" x="2865" y="499.0">Concrete card move; clarify missing detail</text>
+    <rect fill="#e4f7e8" height="94" rx="13" ry="13" stroke="none" stroke-width="2" width="1248" x="2844" y="543"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="2865" y="575.0">03  Answer &amp; source</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" x="2865" y="610.0">Ruling or unknown; cited passage + edition</text>
+    <rect fill="#e8f3ff" height="94" rx="13" ry="13" stroke="none" stroke-width="2" width="1248" x="2844" y="654"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="2865" y="686.0">04  Read source</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" x="2865" y="721.0">Inspect original passage in context</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="2846" y="829.0">No profile, catalog, timer, or unrelated dashboard.</text>
+    <rect fill="#ffffff" height="1095" rx="22" ry="22" stroke="none" stroke-width="2" width="1605" x="60" y="920"/>
+    <rect fill="#087a77" height="1095" rx="5" ry="5" stroke="none" stroke-width="2" width="11" x="60" y="920"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" x="95" y="969.0">04   Sitemap</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="95" y="1011.0">Task-focused relationships; exceptions are embedded states</text>
+    <rect fill="#d3dfe5" height="2" rx="1" ry="1" stroke="none" stroke-width="2" width="1535" x="95" y="1038"/>
+    <rect fill="#e4f7e8" height="92" rx="14" ry="14" stroke="#d3dfe5" stroke-width="2" width="1350" x="180" y="1099"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="28" font-weight="bold" x="213" y="1154.0">Rule check  /  user goal</text>
+    <rect fill="#e8f3ff" height="100" rx="14" ry="14" stroke="#d3dfe5" stroke-width="2" width="1350" x="180" y="1236"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="28" font-weight="bold" x="213" y="1291.0">Choose game &amp; rules</text>
+    <rect fill="#e8f3ff" height="100" rx="14" ry="14" stroke="#d3dfe5" stroke-width="2" width="1350" x="180" y="1381"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="28" font-weight="bold" x="213" y="1436.0">Ask a rule</text>
+    <rect fill="#e8f3ff" height="100" rx="14" ry="14" stroke="#d3dfe5" stroke-width="2" width="1350" x="180" y="1527"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="28" font-weight="bold" x="213" y="1582.0">Answer &amp; source</text>
+    <rect fill="#e4f7e8" height="100" rx="14" ry="14" stroke="#d3dfe5" stroke-width="2" width="1350" x="180" y="1673"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="28" font-weight="bold" x="213" y="1728.0">Read source passage</text>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="854" x2="854" y1="1199" y2="1224"/>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="854" x2="854" y1="1344" y2="1369"/>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="854" x2="854" y1="1489" y2="1515"/>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="854" x2="854" y1="1635" y2="1661"/>
+    <rect fill="#fff0d7" height="147" rx="13" ry="13" stroke="none" stroke-width="2" width="1365" x="175" y="1810"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="202" y="1851.0">States in context:</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="202" y="1894.0">Unsupported ruleset • Clarify • Loading • No source • Conflict • Retry</text>
+    <rect fill="#ffffff" height="1095" rx="22" ry="22" stroke="none" stroke-width="2" width="2428" x="1713" y="920"/>
+    <rect fill="#087a77" height="1095" rx="5" ry="5" stroke="none" stroke-width="2" width="11" x="1713" y="920"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" x="1748" y="969.0">05   User flow with decisions</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="1748" y="1011.0">STARTS with goal before any opening screen  ·  Main route and exceptional outcomes</text>
+    <rect fill="#d3dfe5" height="2" rx="1" ry="1" stroke="none" stroke-width="2" width="2358" x="1748" y="1038"/>
+    <rect fill="#e4f7e8" height="146" rx="16" ry="16" stroke="#d3dfe5" stroke-width="2" width="430" x="1746" y="1095"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="1766" y="1147.0">GOAL: disputed</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="1766" y="1194.0">+2 → +4 rule</text>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="2181" x2="2213" y1="1171" y2="1171"/>
+    <rect fill="#e8f3ff" height="146" rx="16" ry="16" stroke="#d3dfe5" stroke-width="2" width="430" x="2221" y="1095"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="2241" y="1147.0">Select game</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="2241" y="1194.0">and edition</text>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="2656" x2="2688" y1="1171" y2="1171"/>
+    <rect fill="#e8f3ff" height="146" rx="16" ry="16" stroke="#d3dfe5" stroke-width="2" width="430" x="2696" y="1095"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="2716" y="1147.0">Ask specific</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="2716" y="1194.0">card question</text>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="3131" x2="3163" y1="1171" y2="1171"/>
+    <rect fill="#e8f3ff" height="146" rx="16" ry="16" stroke="#d3dfe5" stroke-width="2" width="430" x="3171" y="1095"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="3191" y="1147.0">Retrieve and</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="3191" y="1194.0">check evidence</text>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="3606" x2="3638" y1="1171" y2="1171"/>
+    <rect fill="#e4f7e8" height="146" rx="16" ry="16" stroke="#d3dfe5" stroke-width="2" width="430" x="3646" y="1095"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" x="3666" y="1147.0">Show ruling</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="3666" y="1194.0">and citation</text>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="2195" y="1071.0">ruleset?</text>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="2670" y="1071.0">enough detail?</text>
+    <text fill="#087a77" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="bold" x="3145" y="1071.0">has evidence?</text>
+    <rect fill="#fff0d7" height="130" rx="12" ry="12" stroke="#d3dfe5" stroke-width="2" width="430" x="2210" y="1359"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" x="2225" y="1402.0">E1 · No matching edition</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" x="2225" y="1446.0">Change ruleset</text>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="2410" x2="2410" y1="1255" y2="1351"/>
+    <rect fill="#fff0d7" height="130" rx="12" ry="12" stroke="#d3dfe5" stroke-width="2" width="430" x="2685" y="1359"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" x="2700" y="1402.0">E2 · Missing detail</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" x="2700" y="1446.0">Clarify and continue</text>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="2885" x2="2885" y1="1255" y2="1351"/>
+    <rect fill="#fff0d7" height="130" rx="12" ry="12" stroke="#d3dfe5" stroke-width="2" width="430" x="3160" y="1359"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" x="3175" y="1402.0">E3 · No source</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" x="3175" y="1446.0">Cannot verify</text>
+    <line marker-end="url(#arrow)" stroke="#087a77" stroke-width="5" x1="3360" x2="3360" y1="1255" y2="1351"/>
+    <rect fill="#ffffff" height="340" rx="12" ry="12" stroke="#d3dfe5" stroke-width="2" width="2250" x="1767" y="1593"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="1803" y="1642.0">Main success: player reads the original cited passage, then decides with the group.</text>
+    <rect fill="#e4f7e8" height="111" rx="12" ry="12" stroke="none" stroke-width="2" width="1050" x="1794" y="1674"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="1824" y="1716.0">Read source → discuss supported ruling</text>
+    <rect fill="#fff0d7" height="111" rx="12" ry="12" stroke="none" stroke-width="2" width="1100" x="2869" y="1674"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="2896" y="1717.0">E4 · Conflicting passages → unresolved</text>
+    <rect fill="#fff0d7" height="87" rx="10" ry="10" stroke="none" stroke-width="2" width="2174" x="1794" y="1811"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="bold" x="1825" y="1860.0">E5 · Connection error → show retry, retain game selection and typed question</text>
+    <rect fill="#ffffff" height="623" rx="22" ry="22" stroke="none" stroke-width="2" width="1329" x="60" y="2058"/>
+    <rect fill="#087a77" height="623" rx="5" ry="5" stroke="none" stroke-width="2" width="11" x="60" y="2058"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" x="95" y="2107.0">06   Evidence and assumptions</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="95" y="2149.0">Distinguish empirical research from designed safeguards</text>
+    <rect fill="#d3dfe5" height="2" rx="1" ry="1" stroke="none" stroke-width="2" width="1259" x="95" y="2176"/>
+    <rect fill="#e4f7e8" height="166" rx="12" ry="12" stroke="none" stroke-width="2" width="1250" x="94" y="2212"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="117" y="2255.0">EVIDENCE  /  one interview</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="117" y="2300.0">A UNO group searched online and read rules for +2 → +4.</text>
+    <rect fill="#fff0d7" height="197" rx="12" ry="12" stroke="none" stroke-width="2" width="1250" x="94" y="2402"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" x="117" y="2449.0">NOT YET VERIFIED</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="117" y="2496.0">Label meanings, preference for four screens, faster resolution, edition picker,</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="117" y="2538.0">and feasibility are design hypotheses, not participant findings.</text>
+    <rect fill="#ffffff" height="623" rx="22" ry="22" stroke="none" stroke-width="2" width="1329" x="1436" y="2058"/>
+    <rect fill="#087a77" height="623" rx="5" ry="5" stroke="none" stroke-width="2" width="11" x="1436" y="2058"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" x="1471" y="2107.0">07   Week 6 wireframe scope</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="1471" y="2149.0">Mobile-first, low-fidelity variants of only the task screens</text>
+    <rect fill="#d3dfe5" height="2" rx="1" ry="1" stroke="none" stroke-width="2" width="1259" x="1471" y="2176"/>
+    <rect fill="#e8f3ff" height="75" rx="10" ry="10" stroke="none" stroke-width="2" width="1248" x="1473" y="2210"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="normal" x="1495" y="2255.0">1. Choose game + edition</text>
+    <rect fill="#e8f3ff" height="75" rx="10" ry="10" stroke="none" stroke-width="2" width="1248" x="1473" y="2301"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="normal" x="1495" y="2346.0">2. Ask a rule + clarification</text>
+    <rect fill="#e8f3ff" height="75" rx="10" ry="10" stroke="none" stroke-width="2" width="1248" x="1473" y="2392"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="normal" x="1495" y="2437.0">3. Answer + source + unresolved states</text>
+    <rect fill="#e8f3ff" height="75" rx="10" ry="10" stroke="none" stroke-width="2" width="1248" x="1473" y="2483"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="normal" x="1495" y="2528.0">4. Read source + unavailable passage</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" x="1478" y="2628.0">Add loading, error and keyboard focus treatments.</text>
+    <rect fill="#ffffff" height="623" rx="22" ry="22" stroke="none" stroke-width="2" width="1330" x="2811" y="2058"/>
+    <rect fill="#087a77" height="623" rx="5" ry="5" stroke="none" stroke-width="2" width="11" x="2811" y="2058"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" x="2846" y="2107.0">08   What is still needed</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="2846" y="2149.0">Run a quick, ethical label comprehension test</text>
+    <rect fill="#d3dfe5" height="2" rx="1" ry="1" stroke="none" stroke-width="2" width="1260" x="2846" y="2176"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="bold" x="2845" y="2228.0">L01 / L02 / L03  ·  THREE PEOPLE</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" x="2845" y="2271.0">Present the same eight labels without hints.</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" x="2845" y="2318.0">Ask which label fits each of five tasks:</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="normal" x="2845" y="2360.0">game • edition • question • rule evidence • unknown</text>
+    <rect fill="#fff0d7" height="128" rx="12" ry="12" stroke="none" stroke-width="2" width="1240" x="2845" y="2443"/>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" x="2869" y="2488.0">Record real answers and misunderstandings.</text>
+    <text fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" x="2869" y="2529.0">Current results: 0 / 3. No claims of validation.</text>
+    <text fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" x="2845" y="2643.0">Detailed test prompts and blank log are in the ZIP.</text>
+  </g>
+  <g transform="translate(70,5870)">
+    <rect x="0" y="0" width="4060" height="770" rx="25" fill="#fff4df" stroke="#e2d6bf" stroke-width="3"/>
+    <text x="55" y="85" fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="45" font-weight="bold">WEEK 06   /   WIREFRAMES</text>
+    <text x="55" y="155" fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="29">Reserved for Homework 6 — teacher instructions have not been provided yet.</text>
+    <text x="55" y="251" fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold">Planned low-fidelity mobile wireframes:</text>
+    <rect x="55" y="290" width="3900" height="85" rx="14" fill="#e8f3ff"/>
+    <text x="85" y="346" fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="30">01  Choose game &amp; rules</text>
+    <rect x="55" y="390" width="3900" height="85" rx="14" fill="#e8f3ff"/>
+    <text x="85" y="446" fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="30">02  Ask a rule  +  clarification</text>
+    <rect x="55" y="490" width="3900" height="85" rx="14" fill="#e8f3ff"/>
+    <text x="85" y="546" fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="30">03  Answer &amp; source  +  unresolved states</text>
+    <rect x="55" y="590" width="3900" height="85" rx="14" fill="#e8f3ff"/>
+    <text x="85" y="646" fill="#173749" font-family="DejaVu Sans, sans-serif" font-size="30">04  Read source  +  unavailable passage</text>
+    <text x="55" y="739" fill="#526979" font-family="DejaVu Sans, sans-serif" font-size="23">NOTE: This area is a plan, not a completed Week 6 submission.</text>
+  </g>
+</svg>
