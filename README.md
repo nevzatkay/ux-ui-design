@@ -12,6 +12,8 @@ This repository tracks homework, the individual project, and presentations in on
 
 | Folder | What is in it |
 | --- | --- |
+| [Homework 01](homework/01/README.md) | Problem exploration and FigJam board |
+| [Presentation 01-01](presentation/01-01/README.md) | Week 1 visual pitch |
 | [`homework/10/`](homework/10/README.md) | Homework 10 — project presentation, prototype link, self-reflection |
 | [`presentation/10-01/`](presentation/10-01/README.md) | Final project presentation (PowerMD source) |
 | [`project/`](project/README.md) | Individual project: Rulebook, a board-game rules companion |

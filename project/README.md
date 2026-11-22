@@ -1,21 +1,15 @@
 # Rulebook — board-game rules companion with source references
 
-A mobile-friendly assistant for situational rules questions. It answers inside a rules collection the player selects (game, edition, expansions), shows the source of every answer, and asks for clarification or abstains when the evidence is missing or conflicting. Status: {{CURRENT_STATUS}}
+Rulebook explores how a group can settle a rules question during a turn. A player selects the game, edition and expansions, then checks the passage that supports a ruling. When the selected rules leave a gap, the proposed companion shows what remains unresolved.
+
+The first problem map and pitch are ready. Player research and prototype testing are pending.
 
 ## Timeline
 
-| Week | Goal / Milestone | Verifiable Result |
+| Week | Goal / milestone | Verifiable result |
 | --- | --- | --- |
-| 01 | {{WEEKLY_GOAL}} | {{PARTIAL_RESULT}} |
-| 02 | {{WEEKLY_GOAL}} | {{PARTIAL_RESULT}} |
-
-<!-- Expand the table for all relevant weeks. Track the current status of specific tasks on the GitHub Projects Kanban board, not in a second manual status list. -->
+| 01 | Identify the decision that interrupts play, map assumptions and define success. | [Week 1 submission](../homework/01/README.md) · [First pitch](../presentation/01-01/presentation.md) |
 
 ## GitHub Projects
 
-- [PROJECT]({{GITHUB_PROJECT_URL}})
-- The board shows the **Todo → In progress → Done** status of specific tasks and is also accessible to the instructor.
-
-## Additional Documents
-
-- Keep any extra document in the `project/docs/` folder and link it here.
+[Rulebook project board](https://github.com/users/nevzatkay/projects/1) tracks tasks through Todo, In Progress and Done.
