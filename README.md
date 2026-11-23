@@ -22,3 +22,12 @@ This is the **complete** homework folder for Weeks 01–10, combining original c
 Presentations are in the repository's separate `Presentations/presentation/` directory. GitHub and Figma sharing permissions still require checking.
 
 Research data has not been invented; any missing participant records remain clearly marked.
+
+## Submission quality and rubric traceability
+
+- [Complete Weeks 01–10 evidence-to-rubric matrix](SUBMISSION_EVIDENCE_MATRIX.md) — direct links, evidence status and open tasks.
+- [Research evidence policy](RESEARCH_EVIDENCE_POLICY.md) — distinguishes real reports, technical checks and explicitly simulated training examples.
+- [Project README](project/README.md) — design chronology and links.
+- [Local coursework validator](tools/validate_coursework.py) — checks all weekly folders, PowerMD files and repository-relative Markdown links. GitHub Actions runs the same check on updates.
+
+**Academic evidence note:** Week 05 label testing, Week 07 peer trial, Week 08 three-user usability study and Week 09 independent human recheck are still uncompleted research. Files labeled SIMULATED are illustrative and cannot count as participants.

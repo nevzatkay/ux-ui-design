@@ -36,3 +36,9 @@ status: design-complete-peer-testing-pending
 [11 — SIMULATED usability-study example (not real user results)](11-SIMULATED-usability-example.md)
 
 This explicitly fictional walkthrough is for formatting and practice only. It is **not** evidence that the assignment's required participant research was completed.
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 08 — evidence, decisions and acceptance checks**](12-usability-severity-and-analysis-contract.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.

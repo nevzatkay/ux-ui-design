@@ -38,3 +38,9 @@ A 5–10 minute narrative from a concrete reported rule dispute through research
 - [ ] Confirm the instructor can open Figma and repository links
 - [ ] Complete Week 05 label study, Week 07 peer trial, Week 08 three-person study and Week 09 human recheck before claiming empirical validation
 - [ ] Final live presentation and timing rehearsal (not verifiable from files)
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 10 — evidence, decisions and acceptance checks**](01-storyboard-demo-and-rehearsal.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.

@@ -28,3 +28,9 @@ Each finding identifies a **specific on-screen detail** rather than relying on a
 **Ethical limitation:** The source persona comes from one anonymized participant account. Added needs from the audit are explicitly *hypotheses*, not additional interview facts.
 
 [Week 1 problem framing](../01/README.md) · [Week 2 research](../02/README.md) · [Project overview](../project/README.md)
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 03 — evidence, decisions and acceptance checks**](06-accessibility-verification-plan.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.

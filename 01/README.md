@@ -15,3 +15,9 @@ When a card changes a turn, board-game players need to decide their next move. T
 Five players each receive four covered questions and one unresolved question. In at least 16 of 20 covered attempts, the player identifies a correct move and corresponding passage in under 90 seconds; in at least 4 of 5 unresolved attempts they recognize the missing support. **These are planned targets, not results.**
 
 [Week 01 pitch](../Presentations/presentation/01-01/presentation.md) · [Project timeline](../project/README.md)
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 01 — evidence, decisions and acceptance checks**](02-task-model-and-hypotheses.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.

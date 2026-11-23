@@ -14,3 +14,9 @@ neptun: JWM27Z
 4. [Evidence-based proto-persona and journey](persona-journey.md)
 
 **Study completed:** One short retrospective text report about an UNO +2/+4 dispute; **not** live observation. **Consent limitation:** Research-use consent for verbatim quotes has not been verified. Preserve the participant's words in local working notes but do not include direct quotes in public graded output unless permitted; a factual anonymous paraphrase can be used instead. No group size, emotional response, timing or edition correctness may be inferred.
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 02 — evidence, decisions and acceptance checks**](06-research-traceability-and-coding.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.

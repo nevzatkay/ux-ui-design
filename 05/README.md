@@ -31,3 +31,9 @@ The main journey is **choose ruleset → ask a contextual rule question → answ
 [07 — SIMULATED label-check example (not real user results)](07-SIMULATED-label-test-example.md)
 
 This explicitly fictional walkthrough is for formatting and practice only. It is **not** evidence that the assignment's required participant research was completed.
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 05 — evidence, decisions and acceptance checks**](09-ia-content-and-label-acceptance.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.

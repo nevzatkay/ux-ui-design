@@ -35,3 +35,12 @@ The Figma source navigation and component structure were programmatically checke
 **Next step that reduces uncertainty:** Obtain consent from three suitable participants, run the Week 08 neutral scenario without verbal walkthrough, record observable behavior and exact quotes separately, then revise and retest the highest-severity issue with a permitted official rules passage.
 
 [GitHub project board](https://github.com/users/nevzatkay/projects/1) · [Course audit](../COURSE_AUDIT_2026-11-23.md)
+
+## Traceable submission quality
+
+- [Week-by-week rubric/evidence crosswalk](../SUBMISSION_EVIDENCE_MATRIX.md)
+- [Provenance and test-integrity rules](../RESEARCH_EVIDENCE_POLICY.md)
+- [PowerMD final presentation](../Presentations/presentation/10-01/presentation.md)
+- [Rehearsal and live prototype demonstration script](../10/01-storyboard-demo-and-rehearsal.md)
+
+Each week's README now links to a focused acceptance/check document. These additions improve evidence traceability and handoff readiness but do **not** represent newly completed human testing.

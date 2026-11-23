@@ -42,3 +42,9 @@ The Figma file contains three independently named pages:
 [11 — SIMULATED human-retest example (not real user results)](11-SIMULATED-retest-example.md)
 
 This explicitly fictional walkthrough is for formatting and practice only. It is **not** evidence that the assignment's required participant research was completed.
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 09 — evidence, decisions and acceptance checks**](12-handoff-component-state-machine.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.

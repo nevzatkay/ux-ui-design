@@ -33,3 +33,9 @@ Editable black-and-white frames use Auto Layout, including side-by-side desktop 
 4. [04-delivery-check.md](04-delivery-check.md)
 
 **Status:** Low-fi deliverable prepared; Week 05 label comprehension has not been tested. Confirm instructor view access.
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 06 — evidence, decisions and acceptance checks**](06-wireframe-responsive-and-state-acceptance.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.

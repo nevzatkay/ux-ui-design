@@ -25,3 +25,9 @@ project: Rulebook — board-game rules companion with source references
 [06 — SIMULATED peer-trial example (not real user results)](06-SIMULATED-peer-trial-example.md)
 
 This explicitly fictional walkthrough is for formatting and practice only. It is **not** evidence that the assignment's required participant research was completed.
+
+## Additional rubric-alignment and acceptance documentation
+
+[**Week 07 — evidence, decisions and acceptance checks**](07-prototype-route-and-trial-coverage.md)
+
+This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.
