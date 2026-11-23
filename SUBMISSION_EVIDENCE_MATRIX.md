@@ -21,7 +21,7 @@ The public course portal is https://pte-mik.github.io/info/ux-ui-en/. Its [publi
 | 07 | Clickable start-to-end prototype, reachable exceptions and one peer trial | [Figma prototype](https://www.figma.com/proto/XaM92SjirDruf467HMzwZD?node-id=1-4&starting-point-node-id=1%3A4), [trial matrix](07/07-prototype-route-and-trial-coverage.md) | Clickable flow prepared; **real peer trial pending** |
 | 08 | Three neutral usability tests, observation/quote/inference, severity-ranked changes and UI guideline | [Figma](https://www.figma.com/design/lDLN7kR1Y8MTZruP0Ku3JR), [study analysis](08/12-usability-severity-and-analysis-contract.md), [guideline](08/06-mini-ui-guideline.md) | Designer review and guideline ready; **0/3 real tests** |
 | 09 | Three+ iteration decisions (finding, hypothesis, rejected alternative, tradeoff, effect, open question), variants, technical recheck, annotated handoff | [Decision log](09/01-evidence-and-iteration-log.md), [measured check](09/02-modification-check.md), [state machine](09/12-handoff-component-state-machine.md), [Figma](https://www.figma.com/design/shH7rwYFexBW16cpIfhWZy) | Structural evidence real: 4/4 main links, 4/4 exception entries, 12 variants and 23 instances; **human recheck pending** |
-| 10 | 5–10 min narrative, selective demo, meaningful conclusions and reflection | [13-slide PowerMD](Presentations/presentation/10-01/presentation.md), [demo script](10/01-storyboard-demo-and-rehearsal.md) | Story and demo plan prepared; timed rehearsal/instructor sharing not checked |
+| 10 | 5–7 slides, around 5 minutes; problem → research → design → live demo → improvement → limitation/next step | [Primary 7-slide PowerMD](Presentations/final-project-5min/presentation.md), [spoken script](Presentations/final-project-5min/speaker-notes.md), [demo guide](Presentations/final-project-5min/demo-and-timing.md); [original extended 13 slides](Presentations/presentation/10-01/presentation-extended.md) | Short presentation and notes prepared; timed rehearsal/instructor sharing not checked |
 
 ## Important rubric-specific detail — Week 09
 
@@ -44,3 +44,7 @@ The files containing `SIMULATED` in their filenames are **deliberately fictional
 - [ ] The empirical tests flagged above are actually conducted, consented, analyzed and reflected in affected iterations.
 
 **Overall:** The project has substantial **design artifacts and documented decisions**, but empirical evidence requirements cannot be completed by adding plausible-looking text. Future work must prioritize genuine research and one permissioned source-backed rules scenario.
+
+## Final project talk — short version
+
+The [primary 7-slide PowerMD](Presentations/final-project-5min/presentation.md) was built for the previously supplied **Presentation structure and visual narrative** lesson: one claim per slide, visual support, a selective live Figma demo, clear evidence levels, honest limitations and one next research action. [Delivery crosswalk](10/02-assessment-and-presentation-fit.md).

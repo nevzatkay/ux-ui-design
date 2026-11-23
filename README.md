@@ -19,7 +19,9 @@ This is the **complete** homework folder for Weeks 01–10, combining original c
 
 [View the presentations for Weeks 01–10](Presentations/presentation/) · [Project overview](project/README.md) · [Coursework audit](COURSE_AUDIT_2026-11-23.md).
 
-Presentations are in the repository's separate `Presentations/presentation/` directory. GitHub and Figma sharing permissions still require checking.
+**Primary final talk:** [7-slide, ~5-minute PowerMD](Presentations/final-project-5min/presentation.md) · [easy English speaker notes](Presentations/final-project-5min/speaker-notes.md) · [delivery and assessment check](10/02-assessment-and-presentation-fit.md).
+
+Presentations are in the repository's separate `Presentations/` directory; weekly decks remain under `Presentations/presentation/`. GitHub and Figma sharing permissions still require checking.
 
 Research data has not been invented; any missing participant records remain clearly marked.
 

@@ -6,7 +6,11 @@ project: Rulebook — board-game rules companion with source references
 
 # Week 10 — Evidence-based project presentation and reflection
 
-**PowerMD presentation (13 slides):** [Presentations/presentation/10-01/presentation.md](../Presentations/presentation/10-01/presentation.md)
+**PRIMARY — 5-minute project presentation (7 slides):** [Open the short PowerMD deck](../Presentations/final-project-5min/presentation.md)  
+**Easy spoken English:** [speaker notes](../Presentations/final-project-5min/speaker-notes.md)  
+**Live demo and timing:** [demo guide](../Presentations/final-project-5min/demo-and-timing.md)
+
+**Extended reference version (13 slides):** [Extended 13-slide reference](../Presentations/presentation/10-01/presentation-extended.md)
 
 **Final current Figma prototype (Week 09):** https://www.figma.com/proto/shH7rwYFexBW16cpIfhWZy?node-id=2-4&starting-point-node-id=2%3A4
 
@@ -44,3 +48,7 @@ A 5–10 minute narrative from a concrete reported rule dispute through research
 [**Week 10 — evidence, decisions and acceptance checks**](01-storyboard-demo-and-rehearsal.md)
 
 This supplement names the relevant design rationale, testable acceptance criteria and remaining limitations. It is documentation, not fabricated participant data.
+
+## Final short-deck grading alignment
+
+[Assessment against currently accessible criteria](02-assessment-and-presentation-fit.md) shows where each main message, claim, prototype demo, limitation and research requirement is addressed. The **7-slide short version** is the intended five-minute live presentation; the 13-slide file is kept as a longer reference, not a second presentation requirement.

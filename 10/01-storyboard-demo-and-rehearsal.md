@@ -1,3 +1,5 @@
+> **Extended-version storyboard:** This document describes the older 13-slide presentation. For the class's approximately five-minute, 5–7-slide talk, use the [primary seven-slide deck](../Presentations/final-project-5min/presentation.md) and [timed spoken script](../Presentations/final-project-5min/speaker-notes.md) instead.
+
 # Week 10 — Evidence-first presentation storyboard and live-demo script
 
 **Presentation:** [13-slide PowerMD source](../Presentations/presentation/10-01/presentation.md)  
