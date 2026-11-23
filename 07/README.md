@@ -16,6 +16,6 @@ project: Rulebook — board-game rules companion with source references
 - [03 — Feedback log with quote, observation and interpretation slots](03-observations-and-feedback.md)
 - [04 — Design reflection and next step](04-reflection-and-next-step.md)
 - [05 — Peer trial run sheet and consent](05-peer-trial-run-sheet.md)
-- [PowerMD slides](../../Presentations/presentation/07-01/presentation.md)
+- [PowerMD slides](../Presentations/presentation/07-01/presentation.md)
 
 **Evidence status:** Native Figma navigation exists, but **the required first peer trial has not been conducted**. Three observation slots are not actual feedback. The fixed-answer prototype does not check real rulebook text or collect typed questions. Teacher Share permissions must be confirmed.

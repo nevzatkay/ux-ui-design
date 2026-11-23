@@ -10,7 +10,7 @@ status: design-complete-peer-testing-pending
 - **[Research + severity board / FigJam](https://www.figma.com/board/YWuvTvn8MmNc0KHxVGwvgB)** — test protocol, blank anonymized participant records, *provisional* design-review issues, redesign rationale and reflection.
 - **[Updated interface and guideline / Figma](https://www.figma.com/design/lDLN7kR1Y8MTZruP0Ku3JR)** — page **01 — Refined clickable prototype** and page **02 — Mini UI guideline**.
 - **[Clickable Figma prototype](https://www.figma.com/proto/lDLN7kR1Y8MTZruP0Ku3JR?node-id=2-4&starting-point-node-id=2%3A4)** — starts from S01; traverses S01–S05, plus E01–E04 exception branches.
-- **[PowerMD slides](../../Presentations/presentation/08-01/presentation.md)** — short presentation of task, evidence, proposed revisions and accessible tokens.
+- **[PowerMD slides](../Presentations/presentation/08-01/presentation.md)** — short presentation of task, evidence, proposed revisions and accessible tokens.
 
 ## Deliverables and current evidence status
 

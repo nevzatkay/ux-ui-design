@@ -6,7 +6,7 @@ project: Rulebook — board-game rules companion with source references
 
 # Week 10 — Evidence-based project presentation and reflection
 
-**PowerMD presentation (13 slides):** [Presentations/presentation/10-01/presentation.md](../../Presentations/presentation/10-01/presentation.md)
+**PowerMD presentation (13 slides):** [Presentations/presentation/10-01/presentation.md](../Presentations/presentation/10-01/presentation.md)
 
 **Final current Figma prototype (Week 09):** https://www.figma.com/proto/shH7rwYFexBW16cpIfhWZy?node-id=2-4&starting-point-node-id=2%3A4
 

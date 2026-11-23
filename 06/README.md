@@ -7,7 +7,7 @@ project: Rulebook — board-game rules companion with source references
 
 **Standalone Week 06 Figma Design:** https://www.figma.com/design/TsqmdorEJi0IQe42RTquvr
 
-**PowerMD deck:** [Presentations/presentation/06-01/presentation.md](../../Presentations/presentation/06-01/presentation.md)
+**PowerMD deck:** [Presentations/presentation/06-01/presentation.md](../Presentations/presentation/06-01/presentation.md)
 
 ## Main task and scope
 

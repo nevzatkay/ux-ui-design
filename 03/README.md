@@ -27,4 +27,4 @@ Each finding identifies a **specific on-screen detail** rather than relying on a
 
 **Ethical limitation:** The source persona comes from one anonymized participant account. Added needs from the audit are explicitly *hypotheses*, not additional interview facts.
 
-[Week 1 problem framing](../01/README.md) · [Week 2 research](../02/README.md) · [Project overview](../../project/README.md)
+[Week 1 problem framing](../01/README.md) · [Week 2 research](../02/README.md) · [Project overview](../project/README.md)

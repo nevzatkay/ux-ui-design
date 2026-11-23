@@ -8,16 +8,16 @@
 
 | Week | Milestone | Deliverable | Research status |
 | --- | --- | --- | --- |
-| 01 | Task framing and goals | [Homework 01](../homework/01/README.md) | Success target hypothetical |
-| 02 | Interview and persona | [Homework 02](../homework/02/README.md) | P01 retrospective self-report; consent unconfirmed |
-| 03 | External service UX and accessibility inspection | [Homework 03](../homework/03/README.md) | Heuristic/textual evidence, not user study |
-| 04 | Definition and prioritisation | [Homework 04](../homework/04/README.md) | Design assumptions ranked |
-| 05 | IA, flows and label check | [Homework 05](../homework/05/README.md) | Label check 0/3 |
-| 06 | Mobile/desktop wireframes | [Homework 06](../homework/06/README.md) | Structural artefact |
-| 07 | Clickable prototype and first peer trial | [Homework 07](../homework/07/README.md) | Peer test pending |
-| 08 | Usability study, redesign, guideline | [Homework 08](../homework/08/README.md) | Test participants 0/3; designer review done |
-| 09 | Component library and dev handoff | [Homework 09](../homework/09/README.md) | Navigation/variants technically checked; user retest pending |
-| 10 | Project presentation and reflection | [Homework 10](../homework/10/README.md) | Summary grounded in available evidence |
+| 01 | Task framing and goals | [Homework 01](../01/README.md) | Success target hypothetical |
+| 02 | Interview and persona | [Homework 02](../02/README.md) | P01 retrospective self-report; consent unconfirmed |
+| 03 | External service UX and accessibility inspection | [Homework 03](../03/README.md) | Heuristic/textual evidence, not user study |
+| 04 | Definition and prioritisation | [Homework 04](../04/README.md) | Design assumptions ranked |
+| 05 | IA, flows and label check | [Homework 05](../05/README.md) | Label check 0/3 |
+| 06 | Mobile/desktop wireframes | [Homework 06](../06/README.md) | Structural artefact |
+| 07 | Clickable prototype and first peer trial | [Homework 07](../07/README.md) | Peer test pending |
+| 08 | Usability study, redesign, guideline | [Homework 08](../08/README.md) | Test participants 0/3; designer review done |
+| 09 | Component library and dev handoff | [Homework 09](../09/README.md) | Navigation/variants technically checked; user retest pending |
+| 10 | Project presentation and reflection | [Homework 10](../10/README.md) | Summary grounded in available evidence |
 
 ## Key designs
 
