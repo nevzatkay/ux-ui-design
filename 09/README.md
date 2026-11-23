@@ -36,3 +36,9 @@ The Figma file contains three independently named pages:
 **There are no completed three-person Week 08 usability trials in the available project record.** Week 08 provided a test protocol and participant placeholders, but no consented participant observations or real quotations. Therefore the decisions in Week 09 reference **DR01–DR04, the designer's screen-inspection findings**, and accessibility principles. They are **provisional hypotheses**, not fixes proven to work for users. The structural recheck in section 02 is real technical evidence only. No participant has been invented.
 
 **Submission note:** Verify the Figma file is shared with the instructor. The native Figma “Ready for Dev” status could not be set by the connected editor interface; the handoff page is labeled *UI specification ready / backend integration pending* instead.
+
+## Illustration — NOT collected user data
+
+[11 — SIMULATED human-retest example (not real user results)](11-SIMULATED-retest-example.md)
+
+This explicitly fictional walkthrough is for formatting and practice only. It is **not** evidence that the assignment's required participant research was completed.

@@ -19,3 +19,9 @@ project: Rulebook — board-game rules companion with source references
 - [PowerMD slides](../Presentations/presentation/07-01/presentation.md)
 
 **Evidence status:** Native Figma navigation exists, but **the required first peer trial has not been conducted**. Three observation slots are not actual feedback. The fixed-answer prototype does not check real rulebook text or collect typed questions. Teacher Share permissions must be confirmed.
+
+## Illustration — NOT collected user data
+
+[06 — SIMULATED peer-trial example (not real user results)](06-SIMULATED-peer-trial-example.md)
+
+This explicitly fictional walkthrough is for formatting and practice only. It is **not** evidence that the assignment's required participant research was completed.

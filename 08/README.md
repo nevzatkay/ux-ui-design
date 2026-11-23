@@ -30,3 +30,9 @@ status: design-complete-peer-testing-pending
 **Prototype scope:** This Figma prototype demonstrates navigation and states, not live AI retrieval, editable text, a real indexed rulebook, or the validity of any depicted card ruling. A successful click-through is not evidence of a correct rule decision. The tester should be made aware of the demo constraint only as necessary to avoid deception, without being shown which buttons to click.
 
 **Figma access:** Verify that the teacher can view both files using Share settings. The prototype's start point is set in Figma, but view permissions are account-controlled.
+
+## Illustration — NOT collected user data
+
+[11 — SIMULATED usability-study example (not real user results)](11-SIMULATED-usability-example.md)
+
+This explicitly fictional walkthrough is for formatting and practice only. It is **not** evidence that the assignment's required participant research was completed.

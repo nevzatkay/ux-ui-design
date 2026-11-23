@@ -25,3 +25,9 @@ project: Rulebook — board-game rules companion with source references
 The main journey is **choose ruleset → ask a contextual rule question → answer or acknowledge lack of evidence → inspect original passage**. Edition mismatch, missing context, absent or conflicting evidence, and source loading failure have explicit escape paths.
 
 **Research limitation:** Labels and layout are hypotheses; the single P01 retrospective incident does not validate their comprehensibility. Obtain real independent study data before claiming success.
+
+## Illustration — NOT collected user data
+
+[07 — SIMULATED label-check example (not real user results)](07-SIMULATED-label-test-example.md)
+
+This explicitly fictional walkthrough is for formatting and practice only. It is **not** evidence that the assignment's required participant research was completed.
