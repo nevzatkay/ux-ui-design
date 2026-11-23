@@ -1,19 +1,22 @@
----
-name: Nevzat Kayıkçı
-neptun: JWM27Z
----
-# UX/UI Design — course repository
+# Rulebook — UX/UI Design homework 01–10
 
-This repository tracks homework, the individual project, and presentations in one place. This is where the instructor will find verifiable results and submitted versions.
+Student: Nevzat Kayıkçı · Neptun: JWM27Z · University of Pécs
 
-**Student:** Nevzat Kayıkçı · **Neptun code:** JWM27Z · **Department:** Computer Science Engineering, University of Pécs
+This is the **complete** homework folder for Weeks 01–10, combining original coursework and later corrected files. All week folders are preserved.
 
-## Contents
+| Week | Homework | Status |
+| --- | --- | --- |
+| 01 | [Problem exploration](01/README.md) | Prepared |
+| 02 | [User research](02/README.md) | Prepared; consent to use quotes needs confirmation |
+| 03 | [Usability/accessibility audit](03/README.md) | Prepared; limited to inspection, no device-based audit |
+| 04 | [Problem definition and ideas](04/README.md) | Prepared |
+| 05 | [Information architecture](05/README.md) | Diagrams prepared; 3-person label test pending |
+| 06 | [Low-fidelity wireframes](06/README.md) | Figma file prepared |
+| 07 | [Clickable prototype and first trial](07/README.md) | Prototype prepared; peer trial pending |
+| 08 | [Usability tests and UI guideline](08/README.md) | Design prepared; 0/3 required usability trials recorded |
+| 09 | [Iterations and design system](09/README.md) | Figma component sets and technical checks prepared; human retest pending |
+| 10 | [Final presentation and reflection](10/README.md) | PowerMD and links prepared |
 
-| Folder | What is in it |
-| --- | --- |
-| [Homework 01](homework/01/README.md) | Problem exploration and FigJam board |
-| [Presentation 01-01](presentation/01-01/README.md) | Week 1 visual pitch |
-| [`homework/10/`](homework/10/README.md) | Homework 10 — project presentation, prototype link, self-reflection |
-| [`presentation/10-01/`](presentation/10-01/README.md) | Final project presentation (PowerMD source) |
-| [`project/`](project/README.md) | Individual project: Rulebook, a board-game rules companion |
+Presentations are in the repository's separate `Presentations/presentation/` directory. GitHub and Figma sharing permissions still require checking.
+
+Research data has not been invented; any missing participant records remain clearly marked.

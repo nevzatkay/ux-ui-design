@@ -1,0 +1,14 @@
+mode,component,foreground,background,category,calculated_ratio,AA_threshold,AA_result
+light,body text,#111827,#FFFFFF,normal text,17.74,4.5,PASS
+light,supporting text,#475569,#FFFFFF,normal text,7.58,4.5,PASS
+light,button label,#FFFFFF,#1D4ED8,normal text,6.70,4.5,PASS
+light,input border,#64748B,#FFFFFF,UI component,4.76,3.0,PASS
+light,error label,#B91C1C,#FFFFFF,normal text,6.47,4.5,PASS
+light,warning label,#92400E,#FFFFFF,normal text,7.09,4.5,PASS
+light,focus ring,#1D4ED8,#FFFFFF,UI component,6.70,3.0,PASS
+dark,body text,#F1F5F9,#0B1220,normal text,17.09,4.5,PASS
+dark,supporting text,#CBD5E1,#172033,normal text,10.96,4.5,PASS
+dark,button label,#0B1220,#93C5FD,normal text,10.38,4.5,PASS
+dark,input border,#93C5FD,#172033,UI component,9.02,3.0,PASS
+dark,error label,#FCA5A5,#172033,normal text,8.57,4.5,PASS
+dark,warning label,#FDBA74,#172033,normal text,9.65,4.5,PASS
